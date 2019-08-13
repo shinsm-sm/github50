@@ -6,5 +6,4 @@ public class BTest {
 		System.out.println("BTest 두번째 커밋");
 		System.out.println("BTest 세번째 커밋");
 	}
-
 }
